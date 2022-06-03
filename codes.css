@@ -1,0 +1,204 @@
+header {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+.hedr{
+    margin-top: 55px;
+    margin-left: 40px;
+}
+div .type {
+    background-color: bisque;
+}
+h1 b {
+    color: blueviolet;
+}
+
+
+.air3 {
+    bottom: 105px;
+}
+
+.get-start {
+    position: absolute;
+    border: 1px solid;
+    color: beige;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 121);
+    box-shadow: 3px 3px 9px blueviolet;
+    padding-right: 43px;
+    padding-bottom: 15px;
+    padding-top: 17px;
+    padding-left: 43px;
+    margin-right: 50px;
+    left: 38px;
+    margin-top: 36px;
+    top: 500px;
+}
+
+img {
+    float: right;
+    margin-right: 25px;
+}
+
+h1 {
+    margin-left: 35px;
+    margin-top: 75px;
+}
+
+p {
+    margin-left: 35px;
+}
+
+.air {
+    background-color: inherit;
+    display: inline-flex;
+    color: inherit;
+    margin: 20px;
+    padding-left: 5%;
+    position: relative;
+    width: 350px;
+    height: 170px;
+
+}
+.p1 ,.link{
+    font-size: 13px;
+}
+.air3{
+    width: 50%;
+}
+.incone {
+    float: left;
+    margin-right: 0%;
+    position: absolute;
+    left: 0px;
+    top: 0;
+}
+
+.incone1 {
+    float: left;
+    margin-right: 0%;
+    position: absolute;
+    left: 0px;
+    top: 0;
+}
+
+.incone3 {
+    float: left;
+    margin-right: 0%;
+    position: absolute;
+    left: 0px;
+    top: 0;
+}
+
+.incone4 {
+    float: left;
+    margin-right: 0%;
+    position: absolute;
+    left: 0px;
+    height: auto;
+    top: 0;
+    width: 15%;
+}
+
+h3 {
+    margin-left: 38px;
+}
+
+.types {
+    background-color: rgb(241, 231, 243);
+    margin: 115px;
+    padding: 75px;
+    margin-top: 300px;
+    margin-top: -320px;
+}
+
+.link:hover {
+    background-color: rgb(15, 15, 79);
+    color: ghostwhite;
+    transition: all ease-in-out 0.3s;
+}
+
+.h3 {
+    margin-left: 0%;
+}
+
+.activ {
+    font-size: 13px;
+    margin: 30px;
+    margin-top: 0;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(15, 15, 79);
+    color: ghostwhite;
+    transition: all ease-in-out 0.3s;
+
+}
+
+body {
+    background-image: url("hero-bg.png");
+    font-family: Roboto, sans-serif;
+}
+
+.linke-span:hover {
+    background-color: rgb(215, 11, 205);
+    color: ghostwhite;
+    transition: all ease-in-out 0.3s;
+
+}
+
+.hedr a.link {
+    margin: 30px;
+    margin-bottom: 0px;
+    border: 1px solid rgb(176, 180, 209);
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 7px;
+}
+
+.linke {
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 4px;
+    padding-top: 1px;
+    padding-bottom: 24px;
+    padding-right: 126px;
+    position: relative;
+    border-top: 1px groove blueviolet;
+    bottom: 16px;
+    top: -8px;
+    margin-left: 43px;
+
+}
+hr{
+    bottom: -556px;
+}
+
+.linke-span {
+    position: absolute;
+    border: 1px solid;
+    color: beige;
+    border-radius: 7px;
+    background-color: rgb(226, 43, 214);
+    box-shadow: 3px 3px 9px blueviolet;
+    top: -56;
+    padding-right: 39px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 9px;
+    margin-right: 0px;
+    padding-left: 39px;
+    margin-top: 4px;
+    bottom: 0px;
+    right: -3px;
+    font-size: 20px;
+
+
+
+}
