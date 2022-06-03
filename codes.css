@@ -63,6 +63,9 @@ p {
     height: 170px;
 
 }
+hr{
+    margin-top: 750px;
+}
 .p1 ,.link{
     font-size: 13px;
 }
