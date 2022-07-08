@@ -15,7 +15,10 @@ div .type {
 h1 b {
     color: blueviolet;
 }
-
+.divdiv span{
+    font-size: 14px;
+    color: rgb(79, 94, 106)
+}
 
 .air3 {
     bottom: 105px;
@@ -33,9 +36,9 @@ h1 b {
     padding-top: 17px;
     padding-left: 43px;
     margin-right: 50px;
-    left: 38px;
+    left: 45px;
     margin-top: 36px;
-    top: 500px;
+    top: 400px;
 }
 
 img {
@@ -63,8 +66,49 @@ p {
     height: 170px;
 
 }
+.air6 hr{
+    margin-top: 0px;
+    width: 750px;
+    text-align: center;
+    margin-left: 41px;
+}
+.air6 span{
+    font-size: 13px;
+    color: rgb(174, 168, 168);
+}
+.air6 div{
+    font-size: 14px;
+    color: rgb(133, 128, 128);
+    padding-left: 40px;
+
+}
+.air6 div b{
+    font-size: 14px;
+    color: rgb(53, 51, 51);
+
+}
+.air6 div p{
+    font-size: 14px;
+    color: rgb(53, 51, 51);
+    font-size: 14px;
+    padding-left: 0;
+}
+
+.air6 img{
+    padding-left: 40px;
+    width: 750px;
+    margin-bottom: 20px;
+}
+.air6 {
+    background-color: rgb(241, 231, 243);
+    color: inherit;
+    margin-top: 40px;
+    margin: 25px ;
+    padding-left: 15px;
+    padding-right: 40px;
+}
 hr{
-    margin-top: 750px;
+    margin-top: 400px;
 }
 .p1 ,.link{
     font-size: 13px;
@@ -78,6 +122,9 @@ hr{
     position: absolute;
     left: 0px;
     top: 0;
+}
+.exeption{
+    padding-bottom: 19px;
 }
 
 .incone1 {
@@ -108,8 +155,11 @@ hr{
 
 h3 {
     margin-left: 38px;
+    margin-right: 0 ;
 }
-
+.p2{
+    font-size: 25px;
+}
 .types {
     background-color: rgb(241, 231, 243);
     margin: 115px;
@@ -123,9 +173,299 @@ h3 {
     color: ghostwhite;
     transition: all ease-in-out 0.3s;
 }
-
+.imgstady{
+    position: absolute;
+    left: 44%;
+    top: 338px;
+    margin-bottom: 10px;
+}
 .h3 {
     margin-left: 0%;
+}
+.contactimg{
+    height: auto;
+    margin-top: 25px;
+
+}
+.h4{
+    border-color:  rgb(15, 15, 79);
+    background-color: rgb(15, 15, 79);
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+}
+.sta{
+    font-size: 50px;
+}
+.get-start1 {
+    position: absolute;
+    border: 1px solid;
+    color: beige;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 121);
+    box-shadow:3px 3px 6px 3px blueviolet;
+    text-align: center;
+    top: 350px;
+    left: 50px;
+    height: 50px;
+    right: 50px;
+    font-size: 30px;
+    padding-top:20px
+}
+.derbout {
+    background-color: blue;
+    border: 1px solid whitesmoke;
+    width: 920px;
+    text-align: center;
+    padding: 20px;
+}
+.def{
+    position: relative;
+}
+.sers{
+    position: absolute;
+    top: 4px;
+    right: 187px;
+}
+.img1{
+    margin-right: 0px;
+    margin-top: -7px;
+    margin-left: -15px;
+    margin-right: -13px;
+}
+.mem{
+    border-color: yellow;
+    background-color: rgb(9, 9, 121);
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.mem a{
+    color: whitesmoke;
+}
+.divdiv hr{margin-top: 15px;}
+.divp{
+    margin-bottom: 10px;
+}
+.divdivgspan{
+    font-size: 12px;
+    color: rgb(79, 94, 106);
+    display: inline-flex;
+}
+.get-start2 {
+    position: absolute;
+    border: 1px solid;
+    color: beige;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 121);
+    box-shadow:3px 3px 6px 3px blueviolet;
+    top: 350px;
+    left: 50px;
+    height: 50px;
+    right: 50px;
+    font-size: 30px;
+    padding:20px;
+    padding-bottom: 0;
+}
+.contactbody{
+    background-color: bisque;
+}
+h1{
+    margin-top: 25px;
+}
+.contact-p1{
+    top: 200px ;
+}
+.h1s{
+    border: 1px solid rgb(246, 241, 179);
+    background-color: rgba(141, 166, 167, 0.964);
+    border-radius: 100px;
+    text-align: center;
+    font-size: 25px;
+    width: 42px;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 40px;
+    color: rgb(15, 15, 79);
+}
+.h1s1{
+    border: 1px solid rgb(239, 225, 69);
+    background-color:rgb(239, 225, 69);
+    border-radius: 100px;
+    text-align: center;
+    font-size: 25px;
+    width: 42px;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.fieldset{
+    margin-top: px;
+    border: 0.5px solid rgb(176, 180, 209);
+    padding-bottom: 80px;
+    padding-top: 30px;
+    background-color: rgb(255, 255, 255);
+    display:inline-block;
+    margin: 15px;
+    width: 28.5%;
+    border-radius: 1.5px;
+}
+.grandiv{
+    display:flex;
+}
+.fieldscolar{
+    background-image:  url("image.jpg") ;
+    height: 200px;
+    text-align: center;
+    display: block;
+}
+.fieldscolar1{
+    background-color: rgb(242, 237, 230);
+    margin-top: 10px;
+    font-size: large;
+    position:relative;
+    border-color: rgb(202, 199, 199);
+    
+}
+.divdiv{
+
+    position: relative;
+}
+.fieldscolar2{
+    background-color: rgb(242, 237, 230);
+    border-color: rgb(238, 232, 232);
+    display: block;
+   
+    margin: 10px;
+    margin-bottom: 0;
+    font-size: large;
+
+}
+.spanspan{
+    position: absolute;
+    top: 90px;
+}
+.hr1{
+ margin-top: 500px;
+}
+.div14{
+    display:inline-flex;
+}
+.div1{
+    width: 900px;
+    
+}
+.h1scol{
+    padding-top: 40px;
+    color: aliceblue;
+}
+.link1{
+    margin: 30px;
+    margin-left: 40px;
+    font-size: large;
+    color: rgb(17, 12, 42);
+}
+p{margin: 30px;
+    margin-left: 40px;
+    font-size: large;
+}
+.case-1{
+    width: 300px;
+    margin-top: 25px;
+    margin-left: 15px;
+    background-color:whitesmoke;
+    width: 330px;
+}
+fieldset a{
+    padding-right: 80px;
+}
+.dform{
+    margin-top: 30px;
+}
+
+.case-2{
+    width: 300px;
+    margin-top: 25px;
+    margin-left: 15px;
+    background-color:whitesmoke;
+    width: 330px;
+    border: 0px solid rgb(112, 42, 42);
+    box-shadow: 3px 3px 3px blueviolet;
+}
+.e{
+    color: rgba(255, 21, 0, 0.969);
+    font-size: large;
+}
+.p11{
+    padding-bottom: 50px;
+}
+.recherche{
+    margin-left: px;
+}
+.input{
+    height: 20px;
+    width: 500px;
+}
+.input1{
+    width: 250px;
+    height: 30px;
+    margin-left: 38px;
+
+}
+.fieldset1{
+    border-radius: 1.5px;
+    border: 0.5px solid rgb(176, 180, 209);
+    padding-bottom: 80px;
+    padding-top: 30px;
+    background-color: rgb(239, 225, 69);
+    display: inline-block;
+    margin: 15px;
+    width: 28.5%;
+}
+.divstady{
+    margin: 10px;
+    margin-top: 100px;
+    display: flex;
+    margin-right: 10px;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+.corps-contact{
+
+    display: block;
+    position: relative;
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 500px;
+    margin-left: 350px;
+    margin-right: 200px;
+    background-color: rgb(235, 223, 210);
+    border: 1px solid ghostwhite;
+    border-radius: 40px;
+    text-align: center;
+    width: 500px;
+}
+.stady{
+    text-align: center;
+    background-color: rgb(15, 15, 79);
+    color:white ;
+    padding-bottom: 90px;
+    margin-right: 10px;
+    margin-left: 12px;
+    border-color: rgb(15, 15, 79);
+    margin-bottom: 80px;
 }
 
 .activ {
@@ -142,18 +482,29 @@ h3 {
     transition: all ease-in-out 0.3s;
 
 }
+.activ1{ font-size: 13px;
+    margin: 30px;
+    margin-top: 0;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 25px;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid rgb(176, 180, 209);}
 
-body {
+
+.bodyrhom {
     background-image: url("hero-bg.png");
     font-family: Roboto, sans-serif;
 }
 
-.linke-span:hover {
+.linke-span:hover,.linke-span1:hover {
     background-color: rgb(215, 11, 205);
     color: ghostwhite;
     transition: all ease-in-out 0.3s;
 
 }
+.hr{margin-top: 0;}
 
 .hedr a.link {
     margin: 30px;
@@ -201,4 +552,18 @@ hr{
     bottom: 0px;
     right: -3px;
     font-size: 20px;
+}
+.linke-span1 {
+    border: 1px solid;
+    color: beige;
+    border-radius: 7px;
+    background-color: blueviolet ;
+    box-shadow: 3px 3px 9px blueviolet;
+    padding-right: 39px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 9px;
+    margin-left: 180px;
+    padding-left: 39px;
+    margin-top: 4px;
 }
